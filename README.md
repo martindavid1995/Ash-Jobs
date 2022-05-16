@@ -6,7 +6,13 @@ Full descriptions and application links can be found by following the header lin
 
 ## Dayton & Montgomery County Public Health
 [Benefits For All MG Public Health Positions](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/285-phdmc-benefit-summary/file)
+
+To apply to any of the following positions, fill out this [form](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/13-phdmc-employment-application-packet/file) and e-mail to `humanresources@phdmc.org`
+
 ### [Health Education Specialist I/II](https://www.phdmc.org/employment-postings/2548-health-education-specialist-i-ii-1/file)
+
+**Department:** Chronic Disease Prevention - Tobacco Programs
+
 **Salary:** \$22.21 - 23.85 / hr **~** $46.2k - 49.6k / yr
 
 **Partial Description:**
@@ -16,8 +22,11 @@ Full descriptions and application links can be found by following the header lin
 > * Leads, supports, multi-agency projects to promote a healthy context or social environment.
 
 
-### [Disease Intervention Specialist I/II - Reibold](https://www.indeed.com/jobs?q=Public%20Health%20montgomery%20county&l=Dayton%2C%20OH&vjk=a15fb602f84ce877)
+### [Disease Intervention Specialist I/II - Reibold](Disease_Specialist.md)
 **Public Health-Dayton & Montgomery County**
+
+**Department:** Communiciable Disease EPI/STD Clinic
+
 **Salary:** \$23.85 - 36.11 / hr **~** $49.6k - 75.1k / yr
 
 **Partial Description:**
@@ -28,7 +37,7 @@ Full descriptions and application links can be found by following the header lin
 > * Eliciting contact information for active disease intervention or sex partner notification
 > * Coordinating disease intervention activities and advising local health departments and other health care agencies when appropriate to assure optimum disease intervention
 
-Note: Position not posted on the main MG Public Health page but is posted on Indeed at the above link.
+Note: Position not posted on the main MG Public Health page but is posted on Indeed. It could be filled. Might not perfectly match qualifications but still worth looking into. 
 
 ### [Disease Prevention Specialist - Reibold](https://www.phdmc.org/employment-postings/2511-disease-prevention-specialist-reibold/file)
 **Public Health-Dayton & Montgomery County**
