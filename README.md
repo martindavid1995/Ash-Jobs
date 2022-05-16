@@ -82,5 +82,24 @@ B23/I: \$22.21 - 31.08 / hr **~** \$46.2k - 64.6k / yr
 > * Address health, behavior, social, behavioral, case management, and environment risk factors for infant mortality
 > * Refers clients to appropriate services available within the agency and community groups, and schools to network and promote tobacco cessation and prevention
 
+## GovernmentJobs Montgomery County
 
+To apply to these jobs I believe you need to create an [Government Jobs](https://www.governmentjobs.com/careers/montgomery) account.
+### [Emergency Operations Officer](https://www.governmentjobs.com/careers/montgomery/jobs/3422429/emergency-operations-officer?utm_source=linkup&utm_medium=referrer)
 
+**Department:** AS - Risk, Safety & Emergency Management
+
+**Salary:** \$19.74 - 24.19 / hr **~** $41.1k - 50.3k / yr
+
+**Position Overview**
+> * Under the direction of the Emergency Management Manager, performs critical tasks relating to the administration and development of county disaster preparedness plans, emergency management training and exercise programs, emergency operations center functions, mitigation and recovery programs, and logistical support efforts.  Performs the material and substantial duties of the classification more than 50% of the time.
+
+### [Safety Assistant](https://www.governmentjobs.com/careers/montgomery/jobs/3513399/safety-assistant)
+
+**Department:** AS - Risk, Safety & Emergency Management
+
+**Salary:** \$19.74 - 24.19 / hr **~** $41.1k - 50.3k / yr
+
+**Position Overview**
+> * Professional level in the safety and health occupation under administrative direction of the Safety Manager. Requires extensive knowledge of OSHA codes and regulations and Ohio Bureau of Workers' Compensation rules and laws, safety and accident investigation techniques. 
+> * Serve as experienced professional in industrial and construction safety practices, safety regulations and safety inspection techniques, facilitate development and delivery of accident and safety education programs to assure compliance with all safety laws regulations and rules in implementing, planning and administration of all activities related to safety and worker's compensation loss control programs. Act independently to ensure compliance with federal laws and regulations for an organization.  Performs the material and substantial duties of the classification more than 50% of the time.
