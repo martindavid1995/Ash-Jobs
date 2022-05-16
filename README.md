@@ -23,7 +23,6 @@ To apply to any of the following positions, fill out this [form](https://www.phd
 
 
 ### [Disease Intervention Specialist I/II - Reibold](Disease_Specialist.md)
-**Public Health-Dayton & Montgomery County**
 
 **Department:** Communiciable Disease EPI/STD Clinic
 
@@ -40,7 +39,6 @@ To apply to any of the following positions, fill out this [form](https://www.phd
 Note: Position not posted on the main MG Public Health page but is posted on Indeed. It could be filled. Might not perfectly match qualifications but still worth looking into. 
 
 ### [Disease Prevention Specialist - Reibold](https://www.phdmc.org/employment-postings/2511-disease-prevention-specialist-reibold/file)
-**Public Health-Dayton & Montgomery County**
 
 **Department:** Communicable Disease STD Clinic
 
@@ -58,7 +56,6 @@ risk for HIV infections, including providing educational, behavioral, and risk r
 
 **Department:** Communicable Disease STD Clinic
 
-**Public Health-Dayton & Montgomery County**
 **Salary:** \$22.21 - 31.08 / hr **~** $46.2k - 64.6k / yr
 
 **Partial Description:**
@@ -74,7 +71,6 @@ Note: Qualifications might not match perfectly here, but worth looking at anyway
 
 **Department:** Maternal and Child Health/Infant Vitality
 
-**Public Health-Dayton & Montgomery County**
 **Salary:** 
 B22/I: \$20.93 - 29.24 / hr **~** \$43.6k - 60.8k / yr
 B23/I: \$22.21 - 31.08 / hr **~** \$46.2k - 64.6k / yr
