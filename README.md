@@ -28,5 +28,16 @@ Full descriptions and application links can be found by following the header lin
 > * Eliciting contact information for active disease intervention or sex partner notification
 > * Coordinating disease intervention activities and advising local health departments and other health care agencies when appropriate to assure optimum disease intervention
 
-Note: Position not posted on the MG Public Health page but is found on Indeed under the above description.
+Note: Position not posted on the main MG Public Health page but is posted on Indeed at the above link
+
+### [Disease Prevention Specialist - Reibold](https://www.phdmc.org/employment-postings/2511-disease-prevention-specialist-reibold/file)
+**Public Health-Dayton & Montgomery County**
+**Salary:** \$22.21 - 31.08 / hr **~** $46.2k - 64.6k / yr
+**Partial Description:**
+> * Providing testing information to potential clients desiring HIV antibody testing
+> * Conducting HIV/AIDS pre-test and post-test intervention for clients and their sexual partners who may be at increased
+risk for HIV infections, including providing educational, behavioral, and risk reduction information
+> * Providing referrals as needed for social services, medical and psychological follow-up
+> * Address public’s requests for HIV/AIDS information through group presentations, TV, radio, and printed materials
+> * Conduct clerical duties, which include data entry for Electronic Medical Records (EMR) and completing reports
 
