@@ -7,7 +7,7 @@ Full descriptions and application links can be found by following the header lin
 ## Dayton & Montgomery County Public Health
 [Benefits For All MG Public Health Positions](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/285-phdmc-benefit-summary/file)
 
-To apply to any of the following positions, fill out this [form](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/13-phdmc-employment-application-packet/file) and e-mail to `humanresources@phdmc.org`
+To apply to any of the following positions, fill out this [form](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/13-phdmc-employment-application-packet/file) and e-mail it to `humanresources@phdmc.org`
 
 ### [Health Education Specialist I/II](https://www.phdmc.org/employment-postings/2548-health-education-specialist-i-ii-1/file)
 
@@ -41,6 +41,9 @@ Note: Position not posted on the main MG Public Health page but is posted on Ind
 
 ### [Disease Prevention Specialist - Reibold](https://www.phdmc.org/employment-postings/2511-disease-prevention-specialist-reibold/file)
 **Public Health-Dayton & Montgomery County**
+
+**Department:** Communicable Disease STD Clinic
+
 **Salary:** \$22.21 - 31.08 / hr **~** $46.2k - 64.6k / yr
 
 **Partial Description:**
@@ -52,6 +55,9 @@ risk for HIV infections, including providing educational, behavioral, and risk r
 > * Conduct clerical duties, which include data entry for Electronic Medical Records (EMR) and completing reports
 
 ### [Disease Prevention Specialist - Drew](https://www.phdmc.org/employment-postings/2506-disease-prevention-specialist/file)
+
+**Department:** Communicable Disease STD Clinic
+
 **Public Health-Dayton & Montgomery County**
 **Salary:** \$22.21 - 31.08 / hr **~** $46.2k - 64.6k / yr
 
@@ -62,5 +68,23 @@ risk for HIV infections, including providing educational, behavioral, and risk r
 > * Conducting HIV pre-test and post-test counseling and interventions for clients and their sexual partners who may be at increased risk for HIV infections, including providing educational, behavioral, and risk reduction information. 
 > * Performing finger sticks for rapid HIV, Hepatitis C, and syphilis testing
 
-Note: Qualifications might not match perfectly here, but worth looking at anyways. 
+Note: Qualifications might not match perfectly here, but worth looking at anyways.
+
+### [Community Health Advocate II](https://www.phdmc.org/employment-postings/2470-maternal-and-child-health-infant-vitality/file)
+
+**Department:** Maternal and Child Health/Infant Vitality
+
+**Public Health-Dayton & Montgomery County**
+**Salary:** 
+B22/I: \$20.93 - 29.24 / hr **~** \$43.6k - 60.8k / yr
+B23/I: \$22.21 - 31.08 / hr **~** \$46.2k - 64.6k / yr
+
+**Partial Description:**
+> * Plan develops community health-related programs including curriculum, program material, educational pamphlets, and related literature; Identifies and visits Individuals who need public health services;
+> * Connect and refer women to applicable programs and services, provide follow-up to women via phone calls and other means as necessary to ensure her needs are met
+> * Care coordination through outreach of clients and educate them on Safe Sleep, smoking during pregnancy, breastfeeding, prenatal care, mental health(stress) sessions
+> * Address health, behavior, social, behavioral, case management, and environment risk factors for infant mortality
+> * Refers clients to appropriate services available within the agency and community groups, and schools to network and promote tobacco cessation and prevention
+
+
 
