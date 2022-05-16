@@ -11,10 +11,10 @@ To apply to any of the following positions, fill out this [form](https://www.phd
 
 ### [Health Education Specialist I/II](https://www.phdmc.org/employment-postings/2548-health-education-specialist-i-ii-1/file)
 
-##### Department
+#### Department
 Chronic Disease Prevention - Tobacco Programs
 
-##### Salary
+#### Salary
 \$22.21 - 23.85 / hr **~** $46.2k - 49.6k / yr
 
 ##### Partial Description
