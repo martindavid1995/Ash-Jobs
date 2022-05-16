@@ -2,12 +2,12 @@
 
 **Target location**: Montgomery County, Ohio
 
-Full descriptions and application links can be found by following the header link for each potition title.
-
 ## Dayton & Montgomery County Public Health
 [Benefits For All MG Public Health Positions](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/285-phdmc-benefit-summary/file)
 
-To apply to any of the following positions, fill out this [form](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/13-phdmc-employment-application-packet/file) and e-mail it to `humanresources@phdmc.org`
+Full descriptions can be found by following the header link for each position title.
+
+To apply to any of the following positions, fill out this [form](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/13-phdmc-employment-application-packet/file) and e-mail it to `humanresources@phdmc.org`.
 
 ### [Health Education Specialist I/II](https://www.phdmc.org/employment-postings/2548-health-education-specialist-i-ii-1/file)
 
