@@ -3,7 +3,7 @@
 **Target location**: Montgomery County, Ohio
 
 ## Dayton & Montgomery County Public Health
-[Benefits For All MG Public Health Positions](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/285-phdmc-benefit-summary/file)
+[Benefits For All Montgomery County Public Health Positions](https://www.phdmc.org/program-documents/healthy-lifestyles/gumc/agency/employment/285-phdmc-benefit-summary/file)
 
 Full descriptions can be found by following the header link for each position title.
 
