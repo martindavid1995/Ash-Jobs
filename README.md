@@ -72,7 +72,9 @@ Note: Qualifications might not match perfectly here, but worth looking at anyway
 **Department:** Maternal and Child Health/Infant Vitality
 
 **Salary:** 
+
 B22/I: \$20.93 - 29.24 / hr **~** \$43.6k - 60.8k / yr
+
 B23/I: \$22.21 - 31.08 / hr **~** \$46.2k - 64.6k / yr
 
 **Partial Description:**
